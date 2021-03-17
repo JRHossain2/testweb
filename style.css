@@ -8,19 +8,6 @@ body {
     font-size: 10pt;
     background: #ddc5a2;
 }
-a,a:hover,a:active , a:visited,a:focus{
-  text-decoration:none;
-  outline: none;
-  border: none;
-  background: none;
-  color: black;
-}
-button,button:hover,button:active{
-  border: none;
-  outline: none;
-  background: none;
-}
-
 
 
 
