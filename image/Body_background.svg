@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+width="720px" height="1040px" viewBox="0 0 720 1040" enable-background="new 0 0 720 1344" xml:space="preserve">
+<defs><linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="764.0409" spreadMethod="reflect" x2="274.8004" y1="1009.52606" y2="149.49182">
+<stop offset="1.552602%" stop-color="#6E32E6" stop-opacity="1.0"/><stop offset="63.869633%" stop-color="#1EC3D7" stop-opacity="1.0"/></linearGradient><mask id="hole1"><path fill="white" d="M0.0,9.536743E-7C0.0,9.536743E-7,550.58185,9.536743E-7,550.58185,9.536743E-7C550.58185,9.536743E-7,550.58185,1039.9279,550.58185,1039.9279C550.58185,1039.9279,0.0,1039.9279,0.0,1039.9279C0.0,1039.9279,0.0,9.536743E-7,0.0,9.536743E-7"/>
+<path fill="black" d="M550.77545,-2.758123C551.9551,508.35406,343.71942,282.84943,167.88116,1041.9524C159.86234,1083.8148,557.5298,1052.9375,557.5298,1052.9375C560.37463,-33.82919,560.37463,-33.82919,560.37463,-33.82919C550.5786,-1.1959507,550.5786,-1.1959507,550.5786,-1.1959507"/>
+</mask><linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="382.3708" spreadMethod="reflect" x2="-157.456" y1="855.0276" y2="118.51074">
+<stop offset="19.70874%" stop-color="#1EC3D7" stop-opacity="1.0"/><stop offset="93.885185%" stop-color="#6E32E6" stop-opacity="1.0"/></linearGradient></defs><g><path layer="1" fill="url(#gradient0)" stroke="#000000" stroke-width="2" stroke-opacity="0.0" stroke-miterlimit="10" d="M169.4643,0.2371831C169.4643,0.2371831,719.9998,0.2371831,719.9998,0.2371831C719.9998,0.2371831,719.9998,1039.9998,719.9998,1039.9998C719.9998,1039.9998,169.4643,1039.9998,169.4643,1039.9998C169.4643,1039.9998,169.4643,0.2371831,169.4643,0.2371831"/>
+<path layer="1" fill="url(#gradient1)" mask="url(#hole1)" stroke="#000000" stroke-width="2" stroke-opacity="0.0" stroke-miterlimit="10" d="M0.0,9.536743E-7C0.0,9.536743E-7,550.58185,9.536743E-7,550.58185,9.536743E-7C550.58185,9.536743E-7,550.58185,1039.9279,550.58185,1039.9279C550.58185,1039.9279,0.0,1039.9279,0.0,1039.9279C0.0,1039.9279,0.0,9.536743E-7,0.0,9.536743E-7"/>
+</g></svg>
