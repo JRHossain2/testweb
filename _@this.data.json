@@ -1,0 +1,23 @@
+{
+  "project" : {
+      "name" : "testwebsite",
+      "uid" : "SU_5-A",
+      "version" : "v1.4",
+      "data_type" : "basic_items",
+      "author" : "jrhossain2"
+    },
+  
+  "base" : "https://jrhossain2.github.io/testwebsite/",
+  
+  "image" : {
+      "folder" : "image/",
+      "top_background" : "Body_background.svg",
+      "top_profile" : "myProfile.webp",
+      "shortcut_icon" : "myIcon(2).webp"
+    },
+  
+  "symbolAsText" : [
+      "➥"
+    ]
+  
+}
